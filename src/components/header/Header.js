@@ -1,9 +1,9 @@
 import './Header.css'
-import leftCard from '../../left-banner-image.jpg'
-import card1 from '../../baner-right-image-01.jpg'
-import card2 from '../../baner-right-image-02.jpg'
-import card3 from '../../baner-right-image-03.jpg'
-import card4 from '../../baner-right-image-04.jpg'
+import leftCard from '../../imgs/left-banner-image.jpg'
+import card1 from '../../imgs/baner-right-image-01.jpg'
+import card2 from '../../imgs/baner-right-image-02.jpg'
+import card3 from '../../imgs/baner-right-image-03.jpg'
+import card4 from '../../imgs/baner-right-image-04.jpg'
 import Card from '../card/Card'
 const Header = () => {
     // const cardsList = [
